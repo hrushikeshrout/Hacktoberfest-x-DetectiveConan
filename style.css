@@ -134,8 +134,8 @@ ul li a {
 }
 
 #ayumi {
-  width: 618px;
-  height: 139px;
+  width: 250px;
+  height: 300px;
   margin-top: 19px;
 }
 .row {
@@ -224,13 +224,14 @@ ul li a {
   }
 
   .card {
-    width: 600px;
+    width: 500px;
     text-align: left;
     background-color: rgba(249, 246, 246, 0.401);
     padding: 7px;
     font-family: "Poppins", sans-serif;
     margin: 12px;
     display: flex;
+    flex-direction: column;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
@@ -247,8 +248,8 @@ ul li a {
     margin-right: 12px;
     overflow: hidden;
     margin-top: 90px;
-    width: 1163px;
-    height: 150px;
+    width: 350px;
+    height: 350px;
     /* height: 50px; */
   }
 
@@ -272,8 +273,8 @@ ul li a {
   }
 
   #ayumi {
-    width: 618px;
-    height: 139px;
+    width: 350px;
+    height: 350px;
     margin-top: 19px;
   }
 }
