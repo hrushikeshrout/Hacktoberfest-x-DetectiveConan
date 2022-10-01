@@ -97,13 +97,26 @@ body {
     margin: 15px 0;
 }
 
+
 .card img {
     /* object-fit: cover; */
     border-radius: 10px;
     margin-right: 20px;
     overflow: hidden;
-    width: 500px;
+    width: 50%;
+    height: 40%;
     /* height: 50px; */
+}
+#ayumi {
+    width: 618px;
+    height: 139px;
+    margin-top: 19px;
+}
+#megumi {
+    width: 318px;
+    height: 239px;
+    margin-top: 19px;
+
 }
 
 ul {
@@ -130,11 +143,7 @@ ul li a {
     letter-spacing: 2px;
 }
 
-#ayumi {
-    width: 618px;
-    height: 139px;
-    margin-top: 19px;
-}
+
 
 @media screen and (max-width: 992px) {
     body {
