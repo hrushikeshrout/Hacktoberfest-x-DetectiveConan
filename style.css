@@ -108,15 +108,63 @@ body {
     /* height: 50px; */
 }
 #ayumi {
-    width: 618px;
-    height: 139px;
+    width: 888px;
+    height: 239px;
     margin-top: 19px;
 }
 #megumi {
-    width: 318px;
-    height: 239px;
+    width: 358px;
+    height: 259px;
     margin-top: 19px;
+    margin-right: 6%;
 
+}
+#conan{
+    width: 578px;
+    height: 289px;
+    margin-top: 19px;
+}
+#ran{
+    height:279px;
+}
+#akai{
+    width: 758px;
+    height: 289px;
+    margin-top: 19px; 
+}
+#heji{
+    width: 748px;
+    height: 259px;
+    margin-top: 19px; 
+}
+#kudo{
+    width: 1025px;
+    height: 259px;
+    margin-top: 19px; 
+}
+#yuki{
+    width: 425px;
+    height: 229px;
+    margin-top: 19px; 
+}
+#ai{
+    width: 1025px;
+    height: 329px;
+    margin-top: 19px; 
+}
+#kogoro{
+    width: 1025px;
+    height: 329px;
+    margin-top: 19px; 
+    margin-right:6%; 
+}
+#kazu{
+    width: 1225px;
+    height: 229px;
+    margin-top: 19px; 
+}
+#agasa{
+    margin-right:7.3%;
 }
 
 ul {
