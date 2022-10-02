@@ -1,3 +1,5 @@
+# This Repository is EXCLUDED from Hacktoberfest.
+
 <img width="2295" alt="logo" src="https://github.com/H-Maurya/Hacktoberfest-x-DetectiveConan/blob/main/logo1.png">
 
 <br>
